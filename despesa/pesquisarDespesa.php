@@ -39,7 +39,8 @@ if (isset($_GET['categoria']) && !empty($_GET['categoria'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pesquisar Despesas por Categoria</title>
-    <link rel="stylesheet" href="../styles/style-pesquisar.css">
+    <link rel="stylesheet" href="./../styles/reset.css">
+    <link rel="stylesheet" href="./../styles/style-pesquisar.css">
 </head>
 
 <body>

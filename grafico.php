@@ -94,6 +94,7 @@ $total_despesa_mai = $despesa_mai['total_despesa_mai'] ?: 0;
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Controle Financeiro</title>
+  <link rel="stylesheet" href="./styles/reset.css">
   <link rel="stylesheet" href="./styles/style-grafico.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
